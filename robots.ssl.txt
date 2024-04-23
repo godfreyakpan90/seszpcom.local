@@ -3,6 +3,6 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://seszp.com/sitemap_index.xml
+Sitemap: https://seszp.com/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK
