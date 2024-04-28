@@ -8,7 +8,8 @@
 			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://seszp.com/xmlrpc.php" />
 			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://seszp.com/xmlrpc.php" />
 			<api name="Blogger" blogID="1" preferred="false" apiLink="https://seszp.com/xmlrpc.php" />
-					</apis>
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://seszp.com/wp-json/" />
+			</apis>
 	</service>
 </rsd>
 	
