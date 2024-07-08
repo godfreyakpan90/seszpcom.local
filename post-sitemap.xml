@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://seszp.com/blog/</loc>
-		<lastmod>2024-07-04T05:08:02+00:00</lastmod>
+		<lastmod>2024-07-08T21:46:42+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://seszp.com/how-to-work-in-chicago-as-solar-system-designer/</loc>
@@ -636,13 +636,6 @@
 		<lastmod>2024-07-04T04:59:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://seszp.com/elon-musk-excites-crypto-community-with-unhinged-ai-tweet-tradingview-news/</loc>
-		<lastmod>2024-07-04T04:59:29+00:00</lastmod>
-		<image:image>
-			<image:loc>https://seszp.com/wp-content/uploads/2024/04/Elon-Musk-Excites-Crypto-Community-with-Unhinged-AI-Tweet-%E2%80%94.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://seszp.com/binance-restricts-unverified-sub-accounts-on-exchange-link-program/</loc>
 		<lastmod>2024-07-04T04:59:29+00:00</lastmod>
 	</url>
@@ -669,6 +662,13 @@
 		<lastmod>2024-07-04T04:59:29+00:00</lastmod>
 		<image:image>
 			<image:loc>https://seszp.com/wp-content/uploads/2024/04/Elon-Musk-Excites-Crypto-Community-with-Unhinged-AI-Tweet-%E2%80%94.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://seszp.com/bitcoin-miner-hut-8-hut-has-larger-more-diversified-business-following-usbtc-merger-canaccord-2/</loc>
+		<lastmod>2024-07-04T04:59:29+00:00</lastmod>
+		<image:image>
+			<image:loc>https://seszp.com/wp-content/uploads/2024/04/Bitcoin-Miner-Hut-8-HUT-Has-Larger-More-Diversified-Business.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -839,6 +839,20 @@
 		<lastmod>2024-07-04T05:08:02+00:00</lastmod>
 		<image:image>
 			<image:loc>https://seszp.com/wp-content/uploads/2024/04/Solar-Sales-Representative.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://seszp.com/best-mba-programs-for-caregivers-in-the-united-kingdom/</loc>
+		<lastmod>2024-07-08T21:39:42+00:00</lastmod>
+		<image:image>
+			<image:loc>https://seszp.com/wp-content/uploads/2024/07/MBA-Programs-for-Caregivers.avif</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://seszp.com/best-mba-programs-for-caregivers-in-the-united-states/</loc>
+		<lastmod>2024-07-08T21:46:42+00:00</lastmod>
+		<image:image>
+			<image:loc>https://seszp.com/wp-content/uploads/2024/07/MBA-Programs-for-Caregivers.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
