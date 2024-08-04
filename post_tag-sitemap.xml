@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//seszp.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//bonvoy.claywallet.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://seszp.com/tag/solar-battery/</loc>
+		<loc>https://bonvoy.claywallet.com/tag/solar-battery/</loc>
 		<lastmod>2024-07-04T04:59:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://seszp.com/tag/solar-energy/</loc>
+		<loc>https://bonvoy.claywallet.com/tag/solar-energy/</loc>
 		<lastmod>2024-07-04T05:08:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://seszp.com/tag/solar-insurance/</loc>
+		<loc>https://bonvoy.claywallet.com/tag/solar-insurance/</loc>
 		<lastmod>2024-07-04T04:59:26+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://seszp.com/tag/solar-inverter/</loc>
+		<loc>https://bonvoy.claywallet.com/tag/solar-inverter/</loc>
 		<lastmod>2024-07-04T04:59:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://seszp.com/tag/solar-panel/</loc>
+		<loc>https://bonvoy.claywallet.com/tag/solar-panel/</loc>
 		<lastmod>2024-07-04T04:59:27+00:00</lastmod>
 	</url>
 </urlset>
