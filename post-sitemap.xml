@@ -2,7 +2,14 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://kikabu.com.ng/blog/</loc>
-		<lastmod>2024-08-15T16:23:35+00:00</lastmod>
+		<lastmod>2024-08-22T15:19:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://kikabu.com.ng/how-to-work-as-solar-energy-project-manager/</loc>
+		<lastmod>2024-07-04T04:59:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://kikabu.com.ng/wp-content/uploads/2024/04/How-to-Work-as-Solar-Energy-Project-Manager.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>https://kikabu.com.ng/what-insurance-coverage-is-available-for-solar-energy-systems-in-denver/</loc>
@@ -72,13 +79,6 @@
 		<lastmod>2024-07-04T04:59:26+00:00</lastmod>
 		<image:image>
 			<image:loc>https://kikabu.com.ng/wp-content/uploads/2024/04/Solar-System-Analyst-in-Chicago.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://kikabu.com.ng/how-to-work-as-solar-energy-project-manager/</loc>
-		<lastmod>2024-07-04T04:59:26+00:00</lastmod>
-		<image:image>
-			<image:loc>https://kikabu.com.ng/wp-content/uploads/2024/04/How-to-Work-as-Solar-Energy-Project-Manager.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -345,6 +345,34 @@
 		<lastmod>2024-08-15T16:23:35+00:00</lastmod>
 		<image:image>
 			<image:loc>https://kikabu.com.ng/wp-content/uploads/2024/04/Solar-Sales-Representative.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://kikabu.com.ng/job-opportunities-in-canada-with-visa-sponsorship-for-foreign-nationals/</loc>
+		<lastmod>2024-08-20T12:36:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://kikabu.com.ng/wp-content/uploads/2024/08/Opportunities-in-Canada-with-Visa-Sponsorship.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://kikabu.com.ng/scholarship-and-financial-assistance-opportunities-in-the-usa-for-international-students/</loc>
+		<lastmod>2024-08-22T15:07:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://kikabu.com.ng/wp-content/uploads/2024/08/%F0%9D%90%96%F0%9D%90%8E%F0%9D%90%91%F0%9D%90%8A-%F0%9D%90%95%F0%9D%90%88%F0%9D%90%92%F0%9D%90%80-%F0%9D%90%92%F0%9D%90%8F%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%91%F0%9D%90%92%F0%9D%90%87%F0%9D%90%88%F0%9D%90%8F-.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://kikabu.com.ng/university-of-michigan-african-presidential-scholars-initiative/</loc>
+		<lastmod>2024-08-22T15:12:37+00:00</lastmod>
+		<image:image>
+			<image:loc>https://kikabu.com.ng/wp-content/uploads/2024/08/University-of-Michigan-African-Presidential-Scholars-Initiative.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://kikabu.com.ng/how-to-work-in-the-usa-in-2024-advice-and-tactics-for-securing-a-top-job/</loc>
+		<lastmod>2024-08-22T15:19:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://kikabu.com.ng/wp-content/uploads/2024/08/How-to-Work-in-the-USA-in-2024-Advice-and-Tactics-for-Securing-a-Top-Job.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
